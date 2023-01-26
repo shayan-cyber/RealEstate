@@ -1,7 +1,8 @@
 
 # PropReturns Task : RealEstate- NextJs + GraphQL boilerplate
 ## It is an webapp which uses NextJs and GraphQL API with mongodb
-
+### Netlify Link :https://zesty-sopapillas-e7c05a.netlify.app/
+### Vercel Link :https://real-estate-1h5d.vercel.app/
 
 
 ## GraphQL API Reference
